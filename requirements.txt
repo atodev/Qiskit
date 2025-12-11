@@ -1,0 +1,6 @@
+qiskit[visualization]
+qiskit-ibm-runtime
+qiskit-ibm-catalog
+pandas
+numpy
+matplotlib
